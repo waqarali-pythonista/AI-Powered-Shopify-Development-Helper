@@ -12,6 +12,8 @@ Back-End Development
 Database Management
 REST API Integration
 
+
+
 Dynamic Response Generation: Utilizes OpenAI's GPT-4 model to generate accurate and context-aware responses to user queries.
 Easy to Use: Simply select a category from the sidebar, type in your question, and receive detailed answers in real-time.
 
@@ -37,3 +39,8 @@ Multi-language Support: Extend the tool's capabilities to support multiple langu
 # Contribution
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please feel free to open an issue or submit a pull request.
+
+
+
+https://github.com/user-attachments/assets/c6237480-3125-4384-aadb-a09be059a9f1
+
