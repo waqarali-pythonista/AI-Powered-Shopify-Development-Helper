@@ -1,4 +1,4 @@
-#AI-Powered Shopify Development Helper
+# AI-Powered Shopify Development Helper
 
 #Description
 Welcome to the AI-Powered Shopify Development Helper! This project provides an interactive Streamlit application that leverages OpenAI's powerful language model to assist developers with various aspects of Shopify development. Whether you're working on theme development, back-end development, database management, or REST API integration, this tool is designed to provide expert guidance and support.
